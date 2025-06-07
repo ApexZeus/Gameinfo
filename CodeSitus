@@ -1,0 +1,31 @@
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>GameInfoKu</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Selamat Datang di GameInfoKu</h1>
+    <p>Tempat info game seru dan update!</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Rekomendasi Game Hari Ini</h2>
+      <ul>
+        <li>Mobile Legends</li>
+        <li>Genshin Impact</li>
+        <li>Valorant</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GameInfoKu</p>
+  </footer>
+</body>
+</html>
+```
