@@ -1,0 +1,2 @@
+# Gameinfo
+asal aja dulu
